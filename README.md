@@ -43,7 +43,7 @@ This project is a serverless AI agent solution on AWS that provides a FastAPI en
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/BhavishyaTatineni/stock_query_agent
 cd lambda-src
 ```
 
