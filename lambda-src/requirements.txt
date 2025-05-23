@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+mangum
+boto3
+botocore
+yfinance
+langchain
+langchain-community
